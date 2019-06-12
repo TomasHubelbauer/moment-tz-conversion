@@ -1,0 +1,28 @@
+{
+  "name": "moment-tz-conversion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomasHubelbauer/moment-tz-conversion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomasHubelbauer/moment-tz-conversion/issues"
+  },
+  "homepage": "https://github.com/TomasHubelbauer/moment-tz-conversion#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.25"
+  },
+  "devDependencies": {
+    "@types/moment-timezone": "^0.5.12"
+  }
+}
